@@ -6,6 +6,9 @@
                     "Ec\\DgSante\\CommonBundle": [
                         "all"
                     ]
+                },
+                "copy-from-recipe": {
+                    "config/": "%CONFIG_DIR%"
                 }
             },
             "files": {
