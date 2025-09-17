@@ -2,7 +2,8 @@
     "recipes": {
         "ec/dg-sante/common-bundle": [
             "1.0",
-            "dev-develop-angedio"
+            "dev-develop-angedio",
+            "dev-ecl-4.4"
         ]
     },
     "branch": "main",
