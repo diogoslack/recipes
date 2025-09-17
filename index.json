@@ -1,7 +1,8 @@
 {
     "recipes": {
         "ec/dg-sante/common-bundle": [
-            "1.0"
+            "1.0",
+            "dev-develop-angedio"
         ]
     },
     "branch": "main",
