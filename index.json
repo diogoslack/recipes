@@ -1,8 +1,8 @@
 {
     "recipes": {
         "ec-dg-sante/common-bundle": [
-            "4.4",
-            "develop-angedio",
+            "1.0",
+            "dev-1.0",
             "dev-develop-angedio",
             "dev-ecl-4.4"
         ]
