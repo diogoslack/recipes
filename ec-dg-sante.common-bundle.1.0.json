@@ -1,6 +1,6 @@
 {
     "manifests": {
-        "ec/dg-sante/common-bundle": {
+        "ec-dg-sante/common-bundle": {
             "manifest": {
                 "bundles": {
                     "Ec\\DgSante\\CommonBundle": [
@@ -22,6 +22,6 @@
                 }
             }
         },
-        "ref": "f9e51bbcc04d20d43dd15a7ae4e1eb63118a1a43"
+        "ref": "6fe9edecede070a5eaef54fa92a3dcb146ef9a23"
     }
 }
