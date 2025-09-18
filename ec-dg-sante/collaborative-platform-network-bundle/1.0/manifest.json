@@ -8,10 +8,10 @@
                     ]
                 },
                 "copy-from-package": {
-                    "config/routes/routes.yaml": "%SRC_DIR%/Resources/%CONFIG_DIR%/routes/ec-dg-sante-collaborative-platform-network-bundle.yaml"
+                    "src/Resources/config/routes/routes.yaml": "%CONFIG_DIR%/routes/ec-dg-sante-collaborative-platform-network-bundle.yaml"
                 }
             },
-            "ref": "a72df2013838f3e82f211eac4ae8695138696afc"
+            "ref": "1be8caef639f3da413978a373d3282ece678ff06"
         }
     }
 }
