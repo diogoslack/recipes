@@ -1,6 +1,6 @@
 {
     "recipes": {
-        "ec-dg-sante/common-bundle": [
+        "ec-dg-sante/common-bundle/ec-dg-sante-common-bundle": [
             "1.0"
         ]
     },
