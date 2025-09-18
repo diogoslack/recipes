@@ -11,17 +11,7 @@
                     "config/": "%CONFIG_DIR%"
                 }
             },
-            "files": {
-                "config/routes/ec-dg-sante-collaborative-platform.yaml": {
-                    "contents": [
-                        "ec_dg_sante_collaborative_platform_network_bundle:",
-                        "    resource: '@EcDgSanteCollaborativePlatformNetworkBundle/Resources/config/routing.xml'",
-                        ""
-                    ],
-                    "executable": false
-                }
-            },
-            "ref": "1d7611cbe53061d87ffbb6184dc15731c11b170c"
+            "ref": "17f1acab5b3d4769fef1ec40ca17f7c92b1bbc5e"
         }
     }
 }
