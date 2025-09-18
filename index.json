@@ -10,8 +10,8 @@
     "branch": "main",
     "is_contrib": true,
     "_links": {
-        "repository": "github.com/diogoslack/recipes/{package}/{version}",
+        "repository": "github.com/diogoslack/recipes",
         "origin_template": "{package}:{version}@github.com/diogoslack/recipes:main",
-        "recipe_template": "https://api.github.com/repos/diogoslack/recipes/contents/{package_dotted}.{version}.json"
+        "recipe_template": "https://api.github.com/repos/diogoslack/recipes/contents/{package}/{version}/{package_dotted}.{version}.json"
     }
 }
