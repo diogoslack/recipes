@@ -7,8 +7,8 @@
                         "all"
                     ]
                 },
-                "copy-from-recipe": {
-                    "config/": "%CONFIG_DIR%"
+                "copy-from-package": {
+                    "config/routes/routes.yaml": "%CONFIG_DIR%/routes/ec-dg-sante-collaborative-platform-network-bundle.yaml"
                 }
             },
             "ref": "17f1acab5b3d4769fef1ec40ca17f7c92b1bbc5e"
