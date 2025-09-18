@@ -3,7 +3,7 @@
         "ec-dg-sante/common-bundle": [
             "1.0"
         ],
-        "ec-dg-sante/collaborative-platform/network-bundle": [
+        "ec-dg-sante/collaborative-platform-network-bundle": [
             "1.0"
         ]
     },
