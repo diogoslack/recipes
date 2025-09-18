@@ -7,11 +7,11 @@
                         "all"
                     ]
                 },
-                "copy-from-recipe": {
-                    "config/": "%CONFIG_DIR%"
+                "copy-from-package": {
+                    "config/routes/routes.yaml": "%CONFIG_DIR%/routes/ec-dg-sante-common-bundle.yaml"
                 }
             },            
-            "ref": "57427b534fcf0667beaddea6a731164506b8ba67"
+            "ref": "6bcc60d24adfa14e53b00dbba9a9a6c86fb042f6"
         }
     }
 }
