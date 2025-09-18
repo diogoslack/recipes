@@ -1,2 +1,0 @@
-ec_dg_sante_common_bundle:
-    resource: '@EcDgSanteCommonBundle/config/routing.xml'
