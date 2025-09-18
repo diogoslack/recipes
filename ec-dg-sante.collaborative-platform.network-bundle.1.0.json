@@ -1,0 +1,27 @@
+{
+    "manifests": {
+        "ec-dg-sante/collaborative-platform/network-bundle": {
+            "manifest": {
+                "bundles": {
+                    "Ec\\DgSante\\CollaborativePlatform\\NetworkBundle\\EcDgSanteCollaborativePlatformNetworkBundle": [
+                        "all"
+                    ]
+                },
+                "copy-from-recipe": {
+                    "config/": "%CONFIG_DIR%"
+                }
+            },
+            "files": {
+                "config/routes/ec-dg-sante-collaborative-platform.yaml": {
+                    "contents": [
+                        "ec_dg_sante_collaborative_platform_network_bundle:",
+                        "    resource: '@EcDgSanteCollaborativePlatformNetworkBundle/Resources/config/routing.xml'",
+                        ""
+                    ],
+                    "executable": false
+                }
+            },
+            "ref": "416a1924f233bd85dcc8e9800755b6b09dd38eb5"
+        }
+    }
+}
