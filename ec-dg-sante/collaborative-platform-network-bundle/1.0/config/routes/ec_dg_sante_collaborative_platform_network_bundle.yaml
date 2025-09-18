@@ -1,2 +1,0 @@
-ec_dg_sante_collaborative_platform_network_bundle:
-    resource: '@EcDgSanteCollaborativePlatformNetworkBundle/Resources/config/routing.xml'
