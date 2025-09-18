@@ -3,7 +3,7 @@
         "ec-dg-sante/common-bundle/ec-dg-sante-common-bundle": {
             "manifest": {
                 "bundles": {
-                    "Ec\\DgSante\\CommonBundle\\EcDgSanteCommonBundle": [
+                    "Ec\\DgSante\\CommonBundle": [
                         "all"
                     ]
                 },
