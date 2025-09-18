@@ -1,0 +1,27 @@
+{
+    "manifests": {
+        "ec-dg-sante/common-bundle/ec-dg-sante-common-bundle": {
+            "manifest": {
+                "bundles": {
+                    "Ec\\DgSante\\CommonBundle": [
+                        "all"
+                    ]
+                },
+                "copy-from-recipe": {
+                    "config/": "%CONFIG_DIR%"
+                }
+            },
+            "files": {
+                "config/routes/ec-dg-sante-collaborative-platform.yaml": {
+                    "contents": [
+                        "ec_dg_sante_common_bundle:",
+                        "    resource: '@EcDgSanteCommonBundle/config/routing.xml'",
+                        ""
+                    ],
+                    "executable": false
+                }
+            },
+            "ref": "6fe9edecede070a5eaef54fa92a3dcb146ef9a23"
+        }
+    }
+}
