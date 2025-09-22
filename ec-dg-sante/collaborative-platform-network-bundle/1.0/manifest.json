@@ -11,7 +11,7 @@
                     "src/Resources/config/routes/routes.yaml": "%CONFIG_DIR%/routes/ec-dg-sante-collaborative-platform-network-bundle.yaml"
                 }
             },
-            "ref": "1be8caef639f3da413978a373d3282ece678ff06"
+            "ref": "6af0aede0da66339b1dad7c12419b4ce6732c3b3"
         }
     }
 }
