@@ -11,7 +11,7 @@
                     "config/routes/routes.yaml": "%CONFIG_DIR%/routes/ec-dg-sante-common-bundle.yaml"
                 }
             },            
-            "ref": "6bcc60d24adfa14e53b00dbba9a9a6c86fb042f6"
+            "ref": "fd58283127b710e2a92af9e47375e78c30807cd7"
         }
     }
 }
