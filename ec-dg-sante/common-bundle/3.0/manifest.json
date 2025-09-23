@@ -1,0 +1,17 @@
+{
+    "manifests": {
+        "ec-dg-sante/common-bundle": {
+            "manifest": {
+                "bundles": {
+                    "Ec\\DgSante\\CommonBundle\\EcDgSanteCommonBundle": [
+                        "all"
+                    ]
+                },
+                "copy-from-package": {
+                    "config/routes/routes.yaml": "%CONFIG_DIR%/routes/ec-dg-sante-common-bundle-3.yaml"
+                }
+            },            
+            "ref": "8a21e55209ddf07eda1ea161c32000b81f711572"
+        }
+    }
+}
